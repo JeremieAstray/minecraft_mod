@@ -1,4 +1,4 @@
-package items;
+﻿package items;
 
 import java.util.List;
 
@@ -17,7 +17,7 @@ public class demoitem extends Item {
 		// TODO Auto-generated constructor stub
 
 		this.setUnlocalizedName("name"); // 设置名字 非游戏中显示
-		this.setCreativeTab(CreativeTabs.tabTools); // 创�?模式标签
+		this.setCreativeTab(CreativeTabs.tabTools); // 创造模式标签
 		this.setMaxDamage(50); // 物品耐久
 	}
 
