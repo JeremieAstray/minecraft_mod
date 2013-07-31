@@ -15,7 +15,7 @@ public class demo {
 	@PreInit
 	public void pre_init(FMLPreInitializationEvent event)
 	{	
-		ini = new demoitem(50000);
+		ini = new demoitem(5000);
 	}
 	@Init
 	public void init(FMLInitializationEvent evt)

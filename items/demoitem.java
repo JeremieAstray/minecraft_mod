@@ -25,19 +25,19 @@ public class demoitem extends Item {
 		this.itemIcon = par1IconRegister.registerIcon("demo:1"); // 注册图标
 	}
 
-	public int getDamageVsEntity(Entity par1Entity) {
+	/*public int getDamageVsEntity(Entity par1Entity) {
 		return 8; // 攻击伤害
-	}
+	}*/
 
 	public int getItemEnchantability() {
 		return 25; // 物品附魔能力
 	}
 
-	public boolean hitEntity(ItemStack par1ItemStack,
+	/*public boolean hitEntity(ItemStack par1ItemStack,
 			EntityLiving par2EntityLiving, EntityLiving par3EntityLiving) {
 
 		return true; // 攻击
-	}
+	}*/
 
 	public void addInformation(ItemStack par1ItemStack,
 			EntityPlayer par2EntityPlayer, List par3List, boolean par4) {
