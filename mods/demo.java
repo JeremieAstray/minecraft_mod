@@ -11,6 +11,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 @Mod(modid="demo",name="MOD",version="1.0.0")
 
 
+
 public class demo {
 	public demoitem ini;
 	@PreInit
