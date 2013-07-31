@@ -1,0 +1,1298 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: NP7v3c51f/CiJY29pV+onmY0uFs=
+Created-By: 1.6.0_27 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: 1Bgz/XPc/MLO52jRMN1P4ee9hEE=
+
+Name: ic2/core/util/ItemInfo.class
+SHA1-Digest: niVxHEgqBBYI6j+dak2M6vArzEc=
+
+Name: ic2/core/item/tool/ItemTreetap.class
+SHA1-Digest: YpYK8y9nsQ3quxqejGarbaptuNw=
+
+Name: ic2/core/item/tool/ItemToolWrench.class
+SHA1-Digest: 00jmmMHi+Ijbplw+x1G/5llkyhs=
+
+Name: ic2/core/block/machine/gui/GuiIronFurnace.class
+SHA1-Digest: 2+0s5rZXDtdDNHpdVLX5AyZN+g8=
+
+Name: ic2/core/block/machine/gui/GuiInduction.class
+SHA1-Digest: pBr7P8WWhbfFGEhfrl2zUHF9Kls=
+
+Name: ic2/core/block/personal/ContainerTradeOMatClosed.class
+SHA1-Digest: YfJYuY0yzWOygvJeUxfD/qWkmcU=
+
+Name: ic2/core/block/machine/tileentity/TileEntityElectricFurnace.clas
+ s
+SHA1-Digest: C2HDukDeK1b7Ztz4j8cgG8aJoNc=
+
+Name: ic2/core/item/tool/ItemElectricToolDrill.class
+SHA1-Digest: 54Fw3QNzBEWzZnj+YcprvX+W2Fs=
+
+Name: ic2/core/block/machine/gui/GuiPump.class
+SHA1-Digest: v7WMKB2VGm0F/JyORuYh+hqTZtU=
+
+Name: ic2/neiIntegration/core/ScrapboxRecipeHandler.class
+SHA1-Digest: gt5nsRfZGpCiNAIFfs++o/riXbI=
+
+Name: ic2/core/block/personal/TileEntityEnergyOMat.class
+SHA1-Digest: vkQD1H6hU69WdANfWCbmiQ3EOlA=
+
+Name: ic2/core/item/tfbp/ItemTFBPIrrigation.class
+SHA1-Digest: 1gasUhp3LZtEvCg7033slpz1Wc8=
+
+Name: ic2/core/block/crop/CropHops.class
+SHA1-Digest: 2hq5FKGCDh8r7ujx0vSG6Bw7LGA=
+
+Name: ic2/core/block/crop/CropReed.class
+SHA1-Digest: 9/8Oh0M75eHt5ANaHdFC8ZAvGoo=
+
+Name: ic2/core/block/RenderBlock.class
+SHA1-Digest: kUfkU+Is/2NMPPxsLbw0s+qPKuo=
+
+Name: ic2/core/block/generator/container/ContainerGeoGenerator.class
+SHA1-Digest: gj/xi8S8/IcVtm0X2k/hAIab6iw=
+
+Name: ic2/core/block/personal/ModelPersonalChest.class
+SHA1-Digest: c4SlZCpgO4Cf1kMPF35yrdoEnWI=
+
+Name: ic2/core/block/machine/tileentity/TileEntityCompressor.class
+SHA1-Digest: 19rOz6VclsBar3UagYXJVImLKHc=
+
+Name: ic2/core/block/generator/tileentity/TileEntityBaseGenerator.clas
+ s
+SHA1-Digest: WHcpWnXIySwgMCOeAzu1wJbtswM=
+
+Name: ic2/core/item/ItemFuelCanFilled.class
+SHA1-Digest: Tq9ABZyaOPmQNFG8v/QcOvNAGm0=
+
+Name: ic2/cgIntegration/SubModule.class
+SHA1-Digest: 2gDhR/dj+3nQK4XO68cZgRxvV/U=
+
+Name: ic2/core/slot/SlotInvSlot.class
+SHA1-Digest: 34ClRP0A4TljO3xjxXgDPKLFHIk=
+
+Name: ic2/core/item/block/ItemBlockMetal.class
+SHA1-Digest: gWjPz4pxYKc9A9aBruC5mcjMybg=
+
+Name: ic2/core/block/wiring/TileEntityCableDetector.class
+SHA1-Digest: y0P5khX2JQwJZXx5CZ7MRZhI4QI=
+
+Name: ic2/core/util/StackUtil.class
+SHA1-Digest: d8ygyUmmwew2dLVRb0iRTJgmGPM=
+
+Name: ic2/core/block/personal/GuiPersonalChest.class
+SHA1-Digest: YtYVXsyvBK/Od+DXXzYyo2cX4yM=
+
+Name: ic2/bcIntegration/core/MappedIconProvider.class
+SHA1-Digest: 3oVk4UuxX9bS+A4kEGu1sJmcOrg=
+
+Name: ic2/core/AdvShapelessRecipe.class
+SHA1-Digest: AhjpHodyp1ImfCgRhl+xGPyP8vg=
+
+Name: ic2/core/item/reactor/ItemReactorHeatpack.class
+SHA1-Digest: s7C4Kl+D2Hk4IsgkVVqwgt0TrUM=
+
+Name: ic2/core/block/generator/tileentity/TileEntityGenerator.class
+SHA1-Digest: qNR8gtjVNpeju22bGpeqA2R+sr8=
+
+Name: ic2/core/block/machine/gui/GuiMatter.class
+SHA1-Digest: CZ+06DG/CSA42hSTmTd0Vx0zlqw=
+
+Name: ic2/core/block/wiring/TileEntityTransformerMV.class
+SHA1-Digest: CJJDcix9O+f7mHJfCsAVL11v40U=
+
+Name: ic2/core/block/wiring/GuiElectricBlock.class
+SHA1-Digest: okSVYECnU1UzJCTAMwfrX7dw8KI=
+
+Name: ic2/core/item/armor/ItemArmorIC2.class
+SHA1-Digest: rLY4a5NfRPn6HPYT+SfOKSvce10=
+
+Name: ic2/core/item/armor/ItemArmorSolarHelmet.class
+SHA1-Digest: FETG63xhDPYJ8LH0Q+rN2fwMW54=
+
+Name: ic2/core/block/wiring/TileEntityTransformerLV.class
+SHA1-Digest: Tkhz4d0pmppWMbJrA0y9NpcZTqk=
+
+Name: ic2/core/item/ItemFuelCan.class
+SHA1-Digest: v2zmV6KTG7TwIXCigyzEvuTfGuQ=
+
+Name: ic2/neiIntegration/core/ExtractorRecipeHandler.class
+SHA1-Digest: iaVNDVwhHFlD3y5Fn63Qg8QN040=
+
+Name: ic2/core/block/BlockMetal.class
+SHA1-Digest: C40pY+NYyGsQeRKtwPE4J2KR4Mc=
+
+Name: ic2/core/block/wiring/TileEntityElectricBlock.class
+SHA1-Digest: +nr7XvGr6mbNPZn1OUZGOEjGLZQ=
+
+Name: ic2/core/block/crop/CropRedWheat.class
+SHA1-Digest: KfY6zHzsZw8y7oHMRIdLtyiz4Yo=
+
+Name: ic2/cgIntegration/core/MachineGenerator.class
+SHA1-Digest: luI0pEI56fV8020hiNRvfk1SAww=
+
+Name: ic2/core/block/machine/gui/GuiCompressor.class
+SHA1-Digest: 4EU+JZOrsySJL6Q4As0exld5c88=
+
+Name: ic2/core/block/personal/BlockPersonal.class
+SHA1-Digest: UYkrC9KqShikpVnw1uHaHe2t7tM=
+
+Name: ic2/core/block/TileEntityInventory.class
+SHA1-Digest: 7fBnt/U17jYjYUuz9/FxREyJCss=
+
+Name: ic2/core/block/machine/tileentity/TileEntityMiner$Mode.class
+SHA1-Digest: WZHsk0G4L9sXUQKsZAQ6/Cd8nZM=
+
+Name: ic2/neiIntegration/core/ChargeTooltipHandler.class
+SHA1-Digest: WlsUHg1neYySyeJP56dujggacKo=
+
+Name: ic2/core/WorldData.class
+SHA1-Digest: WjfZwC+prZbqT/vbDlJ7PhmWrNw=
+
+Name: ic2/core/block/EntityDynamite.class
+SHA1-Digest: bE7Hms1yvO6xcSb0s6UZrmcn4mU=
+
+Name: ic2/core/block/generator/container/ContainerGenerator.class
+SHA1-Digest: YcK0XM7XDHun5ZhOmL/WlEXt4f4=
+
+Name: ic2/core/EnergyNet$Tile.class
+SHA1-Digest: LCr5JR0ohd15j1gjkd2eVm05vq4=
+
+Name: ic2/core/item/ItemIC2Boat.class
+SHA1-Digest: NNvIngBkXPKKGEkgvFeoZc0gL64=
+
+Name: ic2/neiIntegration/core/AdvShapelessRecipeHandler$CachedShapeles
+ sRecipe2.class
+SHA1-Digest: Zh/r4IW8bcsS5dFSk4dkMdeM9j4=
+
+Name: ic2/core/item/ItemTerraWart.class
+SHA1-Digest: eKLZeQjfftsStJqpSU+uepF3Kvc=
+
+Name: ic2/core/block/generator/container/ContainerWindGenerator.class
+SHA1-Digest: FfveYH+1Yd07SNg0yHomD4oDDgM=
+
+Name: ic2/core/block/machine/gui/GuiMacerator.class
+SHA1-Digest: 9NkKKNb5RnzJ8//thzkVwOQM/u8=
+
+Name: ic2/core/block/BlockTextureStitched.class
+SHA1-Digest: nuQLtUd5mEAnXf9kXpobmKmlyn8=
+
+Name: ic2/core/block/generator/gui/GuiWindGenerator.class
+SHA1-Digest: jRCC4bhkm2MrPygVq6Pq3Cveflc=
+
+Name: ic2/core/IC2Loot.class
+SHA1-Digest: Sf5s+zxWHJ6MljWqJVRxE5VZ0KA=
+
+Name: ic2/core/block/wiring/BlockElectric.class
+SHA1-Digest: leXwNklwCNgYiuVbdpPK9bwPeZk=
+
+Name: ic2/core/block/wiring/BlockCable$1.class
+SHA1-Digest: B+OPXoFSrivtY5bv4kKlmUBwD0U=
+
+Name: ic2/core/block/RenderBlockDefault.class
+SHA1-Digest: 479BwyPtBvxNbqs0B1Gmvye7vNY=
+
+Name: ic2/core/item/block/ItemMachine.class
+SHA1-Digest: anNHQkBHWjquD2AgsJMFWvN3qE8=
+
+Name: ic2/core/block/crop/CropWheat.class
+SHA1-Digest: PAxUiKLaiONzqd/B/MToI4b5sKY=
+
+Name: ic2/core/item/armor/ItemArmorCFPack.class
+SHA1-Digest: VEYW7T4EgNTLswe69+t2mDwbBcc=
+
+Name: ic2/core/block/TileEntityWall.class
+SHA1-Digest: 299AYOuLb9dU9gUSC7usZCFgU5k=
+
+Name: ic2/core/item/ItemMug.class
+SHA1-Digest: GRA1/qBshuxAsLRxJ6A0dd0Ijjo=
+
+Name: ic2/core/block/OverlayTesr.class
+SHA1-Digest: E8XCblIo9BvTv+nTbqEcfDFO2dI=
+
+Name: ic2/core/block/invslot/InvSlotConsumableId.class
+SHA1-Digest: bG6vixbuTXBK9dwUPB9IsQ8xd5A=
+
+Name: ic2/core/block/wiring/TileEntityLuminatorOLD$1.class
+SHA1-Digest: /T7bapAhZJFTVYfmgU/pe+lKj3w=
+
+Name: ic2/core/item/block/ItemBarrel.class
+SHA1-Digest: nunYjHtAf0/X0eSnrOi7aLrJn/I=
+
+Name: ic2/core/block/personal/GuiEnergyOMatOpen.class
+SHA1-Digest: HvNtkJPxImJ/0xe0ammH4NjAZiI=
+
+Name: ic2/core/block/generator/tileentity/TileEntityReactorChamber.cla
+ ss
+SHA1-Digest: hqeS9Dgtzy/tJrFALfUo3Uqxt5E=
+
+Name: ic2/core/block/machine/BlockMiningTip.class
+SHA1-Digest: bvqkUliKBcQnDutAvxtApI1fpWs=
+
+Name: ic2/core/block/invslot/InvSlotCharge.class
+SHA1-Digest: 1SpSD1+b7wVx93EhmBnR+M875/4=
+
+Name: ic2/core/item/block/ItemCable.class
+SHA1-Digest: P9ah4GXSTmmKgZVlH+/zzetlFtA=
+
+Name: ic2/bcIntegration/core/TriggerEnergyFlow.class
+SHA1-Digest: sEcGPGzkQFUOFdOgNDQpRnL+pmw=
+
+Name: ic2/core/item/armor/ItemArmorStaticBoots.class
+SHA1-Digest: 3csfGzIVtZleG5Emu4Y6WdQcKio=
+
+Name: ic2/core/block/BlockRubberSheet.class
+SHA1-Digest: Nga/ks3x5Z8IkPqlX/U1lJBRWSs=
+
+Name: ic2/cgIntegration/core/AdvRecipeGenerator.class
+SHA1-Digest: kixlIvwaQ1Bwf4ApfNE4oO/+GWc=
+
+Name: ic2/core/block/crop/CropPotato.class
+SHA1-Digest: mHvIi8TVm6Zj5dTGhL3lax1Mf4E=
+
+Name: ic2/core/block/machine/tileentity/TileEntityCanner.class
+SHA1-Digest: pwYObPyzODBAexDwECiXYmYfO7c=
+
+Name: ic2/core/block/BlockRubSapling.class
+SHA1-Digest: DsO7wSfVkxyIwK0LyGc58yu4Qcg=
+
+Name: ic2/core/block/BlockPoleFence.class
+SHA1-Digest: jYFyyeCkpsb2BFbN5I64IYHhKnI=
+
+Name: ic2/core/item/tool/ItemScannerAdv.class
+SHA1-Digest: +HSW3ID11v6Or7Da2FSypvHsXv8=
+
+Name: ic2/core/AdvRecipe.class
+SHA1-Digest: 4frmfElnHlW/MXfyvjetYTQfFlE=
+
+Name: ic2/core/audio/AudioManager.class
+SHA1-Digest: mCCeHsW9rZ1u8sgBFMgkODpJgjA=
+
+Name: ic2/neiIntegration/core/GradualRecipeHandler.class
+SHA1-Digest: sEZKYUlzsdRGCSKwdz9sDiwS5Jg=
+
+Name: ic2/core/ExplosionIC2$ItemWithMeta.class
+SHA1-Digest: uc7T4O+v7M7qqJt2R9NZSV4IDX4=
+
+Name: ic2/core/util/Keyboard.class
+SHA1-Digest: I4Z/clHs+SNZNXY+UwcVRv9jkzY=
+
+Name: ic2/core/GuiIconButton.class
+SHA1-Digest: NwZFcoL6BXi3tXulLbvYs8Plmus=
+
+Name: ic2/core/block/EntityNuke.class
+SHA1-Digest: er/DVWEh/R76j3LpL3gl7nXuwAc=
+
+Name: ic2/core/init/Recipies.class
+SHA1-Digest: sb1SScR/qkWRzEOXGMwOAK3B3uQ=
+
+Name: ic2/core/slot/SlotInvSlotReadOnly.class
+SHA1-Digest: DJRIwmgqSq/i0FGymP/YSdO5/iY=
+
+Name: ic2/bcIntegration/core/TriggerIconProvider.class
+SHA1-Digest: JBPij/l6Jul1/R9h6VEgs/Iln7s=
+
+Name: ic2/core/block/generator/block/BlockReactorChamber.class
+SHA1-Digest: H6gVDmEje5Z8XvSkxxJk3984LJY=
+
+Name: ic2/core/item/ItemResin.class
+SHA1-Digest: sprDvuMz1mWqIQub0wfpW1qLJAA=
+
+Name: ic2/core/item/IUpgradeItem.class
+SHA1-Digest: e24Phd0WyAcf+5As5rTKTcVRgDQ=
+
+Name: ic2/core/util/KeyboardClient.class
+SHA1-Digest: 4wpKnRYvAEvFBqRC5NRY3jA4Jb4=
+
+Name: ic2/core/block/BlockPoleFence$1.class
+SHA1-Digest: 3JnHchuLianFOGkpn2DPuT3rm98=
+
+Name: ic2/neiIntegration/core/GradualRecipeHandler$CachedGradualRecipe
+ .class
+SHA1-Digest: yuFglW75bowxUwBBjjia3rVRjH4=
+
+Name: ic2/core/Platform.class
+SHA1-Digest: SJwD9NubHduCJEto6x7/MCt339E=
+
+Name: ic2/core/block/RenderBlockCrop.class
+SHA1-Digest: 7NZECx8VkxXDU+aoa+F10L3GJqc=
+
+Name: ic2/core/block/personal/GuiTradeOMatOpen.class
+SHA1-Digest: l7Y5kZRXsQ8uA1bClRW/TjEPWVQ=
+
+Name: ic2/core/item/ItemMugCoffee.class
+SHA1-Digest: nfaGixFev7UsGy0i+oZpZDx26Uo=
+
+Name: ic2/core/item/tool/ItemElectricToolChainsaw.class
+SHA1-Digest: 8CGpEat7ECkgGHqedV2V1HQ1h0A=
+
+Name: ic2/core/ExplosionIC2$XZposition.class
+SHA1-Digest: wcRblPNEPytOSn9HkoQ+Ot4XgYY=
+
+Name: ic2/bcIntegration/core/Trigger.class
+SHA1-Digest: gWxazymEsNgoCnjgNJIKS2s12Zg=
+
+Name: ic2/core/item/armor/ItemArmorJetpackElectric.class
+SHA1-Digest: SuqGB+lfa2JLCpxP5VHNspGG2rI=
+
+Name: ic2/core/item/block/ItemBlockRare.class
+SHA1-Digest: QiaZAOm8xbImiBbap3tb5Hc3iUk=
+
+Name: ic2/core/item/tfbp/ItemTFBPCultivation.class
+SHA1-Digest: 5ZPFKXITGXly9G4kwgjQZiYUYS8=
+
+Name: ic2/core/block/personal/ContainerPersonalChest.class
+SHA1-Digest: MieOk58ey373hHHpqG2fYScd2V8=
+
+Name: ic2/core/block/BlockMultiID.class
+SHA1-Digest: Ow916nKGburw1JA1abOIPRovzKE=
+
+Name: ic2/core/block/machine/gui/GuiCropmatron.class
+SHA1-Digest: rLcKEFZUFzU99k2Wx0LALm+ph6E=
+
+Name: ic2/core/block/invslot/InvSlotProcessableGeneric.class
+SHA1-Digest: Ha/JsaWQAyraNydtO4O4zECQXKk=
+
+Name: ic2/core/block/wiring/TileEntityTransformerHV.class
+SHA1-Digest: 0yADGQ5YtXRHAWGvRDeOkaYqB4s=
+
+Name: ic2/core/item/tool/ItemToolCutter.class
+SHA1-Digest: gcWZoI7+c3KzTTgJf4sjrXzjCb4=
+
+Name: ic2/core/block/generator/tileentity/TileEntityNuclearReactorElec
+ tric.class
+SHA1-Digest: Z4biM6roI1PmMynJWqPzm4xiRy4=
+
+Name: ic2/core/Ic2Items.class
+SHA1-Digest: weOyTlcCqNlzEo4c9DmLWGKsZg0=
+
+Name: ic2/core/block/generator/gui/GuiGeoGenerator.class
+SHA1-Digest: iHvpx6rzWqdTr8WNIX2bxKZPKW4=
+
+Name: ic2/core/block/personal/TileEntityPersonalChest.class
+SHA1-Digest: GZCQkAq4ZqMJQY97OEIQB2Mi+fc=
+
+Name: ic2/core/util/TextureIndexClient.class
+SHA1-Digest: Zz8lXcpa0BKvTRQa/K86xIubURo=
+
+Name: ic2/core/item/reactor/ItemReactorHeatStorage.class
+SHA1-Digest: mJ/szaCrt+LNqnWQwTdKgVahxg8=
+
+Name: ic2/bcIntegration/core/TriggerFuel.class
+SHA1-Digest: cVAwKQLPlOppEOiZmMAHlbN0R1o=
+
+Name: ic2/core/block/wiring/RenderBlockCable.class
+SHA1-Digest: nSj6k/qPjp76mMTVvLUj2ZvytW4=
+
+Name: ic2/core/block/invslot/InvSlot$InvSide.class
+SHA1-Digest: p7U7qMecqMVEeP4zE47nOLqqm4I=
+
+Name: ic2/core/item/armor/ItemArmorJetpack.class
+SHA1-Digest: 3599JUItCeVE9rc2Cg5AfqlJiSo=
+
+Name: ic2/core/block/wiring/TileEntityTransformer.class
+SHA1-Digest: TkPEhRdX4XqaLdzxPV+7GRrFO6E=
+
+Name: ic2/core/audio/AudioManagerClient.class
+SHA1-Digest: u85NxZoa56rVZt3bnpQtJGHDZBA=
+
+Name: ic2/core/EnergyNet$EnergyPath.class
+SHA1-Digest: FWFCIRHX6HlvnzTJCVdpykW8I5Q=
+
+Name: ic2/core/item/EntityBoatElectric.class
+SHA1-Digest: qBYNVj1aYmz4NHxh/ZfNgA53nho=
+
+Name: ic2/core/item/ElectricItemManager.class
+SHA1-Digest: OTl4OizKfrCtzP5RyiAy+tXlYFw=
+
+Name: ic2/core/block/BlockITNT.class
+SHA1-Digest: 3oj86oQpbQIbj5lpPcS2uIUpQF0=
+
+Name: ic2/core/item/ItemGradualInt.class
+SHA1-Digest: NeNUpHS77gLcmoVnYbOhfI3LDyo=
+
+Name: ic2/core/item/block/ItemGenerator.class
+SHA1-Digest: uyeUftISDhLlUneblp6YXeJRhfQ=
+
+Name: ic2/core/block/invslot/InvSlotReactor.class
+SHA1-Digest: dabyRa/Qxo/MsXItgMcIOpxE+fQ=
+
+Name: ic2/core/block/generator/container/ContainerWaterGenerator.class
+SHA1-Digest: qi14/ZDqpNcGanWqSKPX/faU0Gw=
+
+Name: ic2/core/block/machine/gui/GuiElecFurnace.class
+SHA1-Digest: bs0+Pa3PHpRY6ShtS6aEQ7ZL8xQ=
+
+Name: ic2/core/block/machine/ContainerMatter.class
+SHA1-Digest: AIs3Ou4/SoDinIMGlhUWUz69/TY=
+
+Name: ic2/core/IHasGui.class
+SHA1-Digest: 1/cUeH3xOqPs7hYzeze7jKcujY0=
+
+Name: ic2/core/item/armor/ItemArmorUtility.class
+SHA1-Digest: YGh2f5mq4t0jm7O3/xGK2i1IkMw=
+
+Name: ic2/core/block/wiring/TileEntityCable$1.class
+SHA1-Digest: 2rUhuannuEhfnp4njtmjkwCp5XM=
+
+Name: ic2/core/slot/SlotArmor.class
+SHA1-Digest: Lbd0YGhANJpBkn/bvT6tUcN49Qg=
+
+Name: ic2/core/block/EntityStickyDynamite.class
+SHA1-Digest: HxHyPRJDkKU98Y0T19Bgr/9QJeQ=
+
+Name: ic2/core/item/armor/ItemArmorNightvisionGoggles.class
+SHA1-Digest: WfLvO1FKLtUk6Cy0VBWVbqLbBW0=
+
+Name: ic2/core/item/tfbp/ItemTFBPFlatification.class
+SHA1-Digest: Upe1xL5rDknB0rDg9g+A5zqKuTw=
+
+Name: ic2/core/item/block/ItemLuminator.class
+SHA1-Digest: VnK5wCeIjdzGYVpp88ZGlY9oizc=
+
+Name: ic2/core/item/reactor/ItemReactorCondensator.class
+SHA1-Digest: sEwOpUJ/E/TYeU53EObBLbTwtH4=
+
+Name: ic2/bcIntegration/SubModule.class
+SHA1-Digest: HGwUOUWuMZHKZgtJ5er03mcuD2s=
+
+Name: ic2/core/block/personal/ContainerEnergyOMatOpen.class
+SHA1-Digest: Ij/siEkHXD5bkiNBhXarANgU1so=
+
+Name: ic2/core/slot/SlotCustom.class
+SHA1-Digest: 1IpZnHQFN8/WceeRqZlX4IGyO2Q=
+
+Name: ic2/core/item/tool/ItemCropnalyzer.class
+SHA1-Digest: w/H5eQAh6QwMJ07pcQDqcuO9G+s=
+
+Name: ic2/core/item/BaseElectricItem.class
+SHA1-Digest: RgUwbZ4r1E8Ruu1ZNlOyaQnQdWY=
+
+Name: ic2/core/item/tfbp/ItemTFBPMushroom.class
+SHA1-Digest: ZLbWcWHzAFSFwop57yi/1X22WoY=
+
+Name: ic2/core/block/invslot/InvSlot$Access.class
+SHA1-Digest: 7oAvZfBSR/qyPl2wJcuLGj1Abvc=
+
+Name: ic2/core/block/crop/CropSeedFood.class
+SHA1-Digest: GXXVM2Tk4T+PwDo70jPuzvvL4n4=
+
+Name: ic2/bcIntegration/core/TriggerWork.class
+SHA1-Digest: N0tn/C2bETz0fnAklvEmUwGPqME=
+
+Name: ic2/core/EnergyNet$1.class
+SHA1-Digest: 36DaIzU201NbDDiPTQXdkAe+4ms=
+
+Name: ic2/core/network/NetworkManager.class
+SHA1-Digest: jYXCAXIngNoCMc7llB8v9jhc1uE=
+
+Name: ic2/core/block/crop/CropColorFlower.class
+SHA1-Digest: TmoJLwK+EkRMaWHT2l/JBTW1gUw=
+
+Name: ic2/core/init/Localization.class
+SHA1-Digest: Z/u/L4MIcn4cv8wHui1WtRXc6ec=
+
+Name: ic2/core/RecipeGradual.class
+SHA1-Digest: rVWB0D8e/SqU9aq8bc7uXxY1nTg=
+
+Name: ic2/core/block/crop/CropWeed.class
+SHA1-Digest: H7YgLzBFrtH47R0fyTecYUYUy+A=
+
+Name: ic2/core/block/personal/GuiEnergyOMatClosed.class
+SHA1-Digest: TRaoMoAQkd60Xqpg2suU2ckkWq4=
+
+Name: ic2/core/block/invslot/InvSlotTfbp.class
+SHA1-Digest: 6DRzXCSM7V+dv39y33uvW4EMsiw=
+
+Name: ic2/core/block/machine/ContainerElectricMachine.class
+SHA1-Digest: G0oe8eC+EoFSst4ZZViU03MncRY=
+
+Name: ic2/core/block/crop/CropTerraWart.class
+SHA1-Digest: aom8o7wRBIk+YfMa4kLHrahhIFU=
+
+Name: ic2/core/init/Localization$1.class
+SHA1-Digest: Rb+xnB9yWVWQixaDQVKI3lrLQrA=
+
+Name: ic2/core/util/TextureIndex.class
+SHA1-Digest: U5Z5o05fi8nzfuZVhhfF+UdLaC0=
+
+Name: ic2/core/block/RenderBlockFence.class
+SHA1-Digest: 7xLgzBUUEBCLACHNnQDAgt8wf9o=
+
+Name: ic2/core/item/tool/RenderCrossed.class
+SHA1-Digest: 96a07zpYAXVtfWVTo8NhEYzXt+E=
+
+Name: ic2/core/block/crop/CropStickReed.class
+SHA1-Digest: zb7B5pOkf7MfesgjPlSHIzCFcps=
+
+Name: ic2/core/block/machine/ContainerCropmatron.class
+SHA1-Digest: 9O0raNhHpKj8iHtVS8lg/7rEOkE=
+
+Name: ic2/core/item/tool/ItemToolPainter.class
+SHA1-Digest: zBnQgWy1ji93UksT/T4kARLJ7pM=
+
+Name: ic2/core/item/tool/RenderObscurator.class
+SHA1-Digest: +v7qk9WxSyANpwuVYvfLlq7widw=
+
+Name: ic2/neiIntegration/core/CompressorRecipeHandler.class
+SHA1-Digest: 6aukMmHd18kVNhRPlmazucvbjcI=
+
+Name: ic2/core/item/block/ItemElectronicBlock.class
+SHA1-Digest: tf4t49ora/qKPpMELaWPbmJaY4E=
+
+Name: ic2/core/block/crop/CropAurelia.class
+SHA1-Digest: UF6ep2R8kSUhJeSGD5p04cKm13s=
+
+Name: ic2/core/block/machine/gui/GuiRecycler.class
+SHA1-Digest: U4Kr/7frOdgZoqWHOUsCLYvCvwc=
+
+Name: ic2/core/item/ItemCropSeed.class
+SHA1-Digest: TOPBV6pX6K9LWM0SHBGH7culCsY=
+
+Name: ic2/core/item/ItemBattery.class
+SHA1-Digest: K0d9Km0fhCb2zYN2wmzqJ9DzhR0=
+
+Name: ic2/core/block/machine/tileentity/TileEntityPump.class
+SHA1-Digest: HkafRuYeJKVo5u2YPq2gtg+ylkg=
+
+Name: ic2/core/item/block/ItemRubLeaves.class
+SHA1-Digest: CURUGy15MRz85U4fWYSH9CQS96M=
+
+Name: ic2/core/block/personal/TileEntityPersonalChestRenderer.class
+SHA1-Digest: f+zDZK+81svRB69SYgVgOxkDzRg=
+
+Name: ic2/core/block/crop/CropPumpkin.class
+SHA1-Digest: xvZH6cL0Ku8vuAlnHZtXmWcvUaQ=
+
+Name: ic2/core/block/invslot/InvSlotConsumableLiquid.class
+SHA1-Digest: FaZmvyl/TYmId42Bm4ljqAQhORI=
+
+Name: ic2/core/block/machine/tileentity/TileEntityInduction.class
+SHA1-Digest: fzHibokeWr8RtNaxl45rVR03KHo=
+
+Name: ic2/core/BasicListRecipeManager.class
+SHA1-Digest: OuTxs/sdhGsGfjCh+pOg9fS8qsc=
+
+Name: ic2/core/block/generator/gui/GuiGenerator.class
+SHA1-Digest: C7k5OhKlmG1hNss6gEVa2n5Ncko=
+
+Name: ic2/core/block/crop/CropVenomilia.class
+SHA1-Digest: PNt30y9PoQ5ZntewnnCHW8mWu8s=
+
+Name: ic2/core/item/reactor/ItemReactorVent.class
+SHA1-Digest: C+8T8nZFWFgaiSOTVpyW961gbE4=
+
+Name: ic2/core/IC2.class
+SHA1-Digest: vYCHiyPaGVSyb2n3+FknJwxkC98=
+
+Name: ic2/core/item/armor/ItemArmorHazmat.class
+SHA1-Digest: ks5eeJzSxTja85r+cf3GQupAsmM=
+
+Name: ic2/core/item/tool/ItemToolMeter.class
+SHA1-Digest: UJ47Wp0kOig8rOQpVOGuXg/KzsU=
+
+Name: ic2/core/item/reactor/ItemReactorPlating.class
+SHA1-Digest: f+CI1U45VD3RebldY+8nqn6K/F0=
+
+Name: ic2/core/item/tool/GuiCropnalyzer.class
+SHA1-Digest: 7/m2Hqd493G66fuWUNjtxElhX9s=
+
+Name: ic2/core/block/invslot/InvSlotConsumableFuel.class
+SHA1-Digest: QFqEUtchzogjAbxdfoLdd0jvi/k=
+
+Name: ic2/core/block/wiring/TileEntityCableSplitter.class
+SHA1-Digest: qC9358ftPvT+YWpSqwbMr284AOw=
+
+Name: ic2/core/util/AabbUtil$1.class
+SHA1-Digest: lPnt1BKDIc5FqEKaOds8V6XCZF0=
+
+Name: ic2/core/item/block/ItemIC2Door.class
+SHA1-Digest: SiD+jziTIybNQT6DelDsC1dPS5M=
+
+Name: ic2/core/init/Energy.class
+SHA1-Digest: e67E+qC446utxBLDtcWbmdB5zWg=
+
+Name: ic2/core/block/personal/GuiTradeOMatClosed.class
+SHA1-Digest: wFwuCiw2APWgLAJaNHktkiTPKT4=
+
+Name: ic2/core/item/ItemFuelCanEmpty.class
+SHA1-Digest: /fQEh18hh7/AaZC5kzVr3kj4OwY=
+
+Name: ic2/core/audio/AudioSourceClient.class
+SHA1-Digest: AKxH/zASO8BY83qR5qWZ5iNIpYs=
+
+Name: ic2/neiIntegration/SubModule.class
+SHA1-Digest: mzNOJb0Ap4KKuaxOuNvNZ+WGokM=
+
+Name: ic2/core/item/tool/ItemToolWrenchElectric.class
+SHA1-Digest: GjmMMwtT8MZrazPhoERDk2IMJlk=
+
+Name: ic2/core/block/machine/gui/GuiMiner.class
+SHA1-Digest: WtIVucWo54YP9h4p6v4rylnaG30=
+
+Name: ic2/core/block/wiring/TileEntityElectricMFE.class
+SHA1-Digest: LJK/1JY4ddrG01s7KLtq+a5+9Do=
+
+Name: ic2/bcIntegration/core/TriggerHeat.class
+SHA1-Digest: bf6cXewvvg9tudgHjMJalrqAIMY=
+
+Name: ic2/core/item/ItemTinCan.class
+SHA1-Digest: T8oqsQ+x9RLh4ZrUX9y343jSZMk=
+
+Name: ic2/core/block/machine/ContainerStandardMachine.class
+SHA1-Digest: xefaqDuyL5HRCZPZ1qkYF0y6Z/Q=
+
+Name: ic2/core/block/WorldGenRubTree.class
+SHA1-Digest: cgKffeeXf/Y1LUhSTp5N55VLvNY=
+
+Name: ic2/core/item/reactor/ItemReactorVentSpread.class
+SHA1-Digest: +rEc1nBfZSRi4ug1D5xRwlrWKj0=
+
+Name: ic2/core/block/invslot/InvSlotProcessable.class
+SHA1-Digest: 119ierduCDXuGuNcZD0xOP2xTZ4=
+
+Name: ic2/core/EnergyNet$EnergyBlockLink.class
+SHA1-Digest: Cm6Q0BU6lbPnz4/NilLpYXrQidM=
+
+Name: ic2/neiIntegration/core/AdvRecipeHandler$CachedShapedRecipe2.cla
+ ss
+SHA1-Digest: RCAKFegXNUD3qQme0g2JASM9CBs=
+
+Name: ic2/core/item/RenderIC2Boat.class
+SHA1-Digest: S3PsvRsxjnvm91JLC0W1P/l/Jxg=
+
+Name: ic2/core/item/tool/HandHeldInventory.class
+SHA1-Digest: oElaYJNIE8tX60q+LHS2f7Llm1E=
+
+Name: ic2/core/item/tool/ItemIC2Axe.class
+SHA1-Digest: FVX9lKQzdCgu8KekgJYyG4oReiQ=
+
+Name: ic2/core/block/machine/tileentity/TileEntityMatter.class
+SHA1-Digest: vc4O4qrskWyirC65YfHCR0hGkzM=
+
+Name: ic2/core/block/machine/tileentity/TileEntityStandardMachine.clas
+ s
+SHA1-Digest: UvyPE7PcUw9L7I5r/EGit/hlp7Y=
+
+Name: ic2/core/item/ItemUpgradeModule.class
+SHA1-Digest: ItTQQ0z49cbtMtpJWUnm8ZgfNkk=
+
+Name: ic2/core/util/KeyboardClient$1.class
+SHA1-Digest: wm75/fv9rKXRUbc+aUYSSHPxX4M=
+
+Name: ic2/core/util/Liquid$LiquidData.class
+SHA1-Digest: TU5x3jp99juNvjmks8wBSm5xMiI=
+
+Name: ic2/core/item/tool/ItemElectricTool.class
+SHA1-Digest: +387ggpo+fc/8cB9QWyf3KERo2M=
+
+Name: ic2/core/ExplosionIC2.class
+SHA1-Digest: mQPs+6TQw2aMBAgKvJTIL246Ilk=
+
+Name: ic2/core/block/BlockTexGlass.class
+SHA1-Digest: Fyzd9zL4328qughe48Lu5Iqmopg=
+
+Name: ic2/core/ContainerBase.class
+SHA1-Digest: i5cCjvfi4WEKiOmBhlXljvNn2MI=
+
+Name: ic2/core/block/BlockCrop.class
+SHA1-Digest: u3qMm6fXKnkDWL0sD5VLZ3Nfejg=
+
+Name: ic2/core/block/invslot/InvSlot.class
+SHA1-Digest: ONjxcQ90vMZho933EyZ7Qeyv/lE=
+
+Name: ic2/core/block/machine/BlockMachine2.class
+SHA1-Digest: RiP0nPxMDwK6APK1tArgsJYUSKo=
+
+Name: ic2/core/item/tool/ItemIC2Sword.class
+SHA1-Digest: FZjEwuvdAdTP1aDYcUUcUS7FVwo=
+
+Name: ic2/core/block/invslot/InvSlotConsumableLinked.class
+SHA1-Digest: astTzcJjeMcZdrEb6Xc7D5KDEcs=
+
+Name: ic2/core/item/ItemScrapbox.class
+SHA1-Digest: 7sI0JQDAGfYAopoULdfEyyqzNQc=
+
+Name: ic2/core/item/tool/ItemToolMiningLaser.class
+SHA1-Digest: CK858PyT54lKJsKyHD3isIcfDd0=
+
+Name: mcmod.info
+SHA1-Digest: W9fQjwWLCskD0OZEzsPGQtHULko=
+
+Name: ic2/core/item/ItemBooze.class
+SHA1-Digest: A3IO+lMwd7d09oAYSMbsCZgtwNA=
+
+Name: ic2/core/item/armor/ItemArmorElectric.class
+SHA1-Digest: OwHND2YB/G0P1tL7Q+cF8vLRmjE=
+
+Name: ic2/core/item/reactor/ItemReactorReflector.class
+SHA1-Digest: Lfqebwi/BBt9doQtNVxUwBxfils=
+
+Name: ic2/core/block/BehaviorDynamiteDispense.class
+SHA1-Digest: 6OkLQx+Od8qoXPIAlCF4zRqK4kc=
+
+Name: ic2/core/block/machine/ContainerMiner.class
+SHA1-Digest: V7Q2/4pOKm+BK1IdWBVGN+kv4EM=
+
+Name: ic2/core/block/personal/IPersonalBlock.class
+SHA1-Digest: X2nJBjMe4YZ0ki76zzRDbIPPzz8=
+
+Name: ic2/core/block/BlockIC2Explosive.class
+SHA1-Digest: RI8OTDapegSv9JWeJ9bpg0NnJvE=
+
+Name: ic2/core/init/InternalName.class
+SHA1-Digest: 8DRVr2P/YwkSdRJfVsScFZsZ7Vo=
+
+Name: ic2/core/block/personal/ContainerTradeOMatOpen.class
+SHA1-Digest: VGgWlFkIvHSKFBc5q7stSXjH2So=
+
+Name: ic2/bcIntegration/core/TileEntityPersonalChestBc32x.class
+SHA1-Digest: Y1HLrUh+8wW9XX62+OQNObJGJ1w=
+
+Name: ic2/core/item/tfbp/ItemTFBPDesertification.class
+SHA1-Digest: CnD/vo2I27KqRMvvIWKtxTcpk04=
+
+Name: ic2/core/IC2Potion.class
+SHA1-Digest: aFRLU2S7PtQgnz+qMUzyfUgieOU=
+
+Name: ic2/neiIntegration/core/ScrapboxRecipeHandler$CachedScrapboxReci
+ pe.class
+SHA1-Digest: fVYutifRT8H0ZGw6DYGb3g8ek9E=
+
+Name: ic2/bcIntegration/core/TileEntityReactorChamberSteam.class
+SHA1-Digest: iTezsbK8tUWpm3q+quKm0KEUzgM=
+
+Name: ic2/core/item/tool/ItemDebug.class
+SHA1-Digest: 2KhYxOklfBAdlByv80xg6jjCTYY=
+
+Name: ic2/core/item/armor/ItemArmorBatpack.class
+SHA1-Digest: Tnd3SlGlgi7BH6NysSaqD1Q7ErI=
+
+Name: ic2/core/block/invslot/InvSlotOutput.class
+SHA1-Digest: hTiOifmErj0OntA6sQR3T7yDy84=
+
+Name: ic2/neiIntegration/core/MachineRecipeHandler$CachedIORecipe.clas
+ s
+SHA1-Digest: gzjWQYi58OUh9UF8JXX/7HMu4rs=
+
+Name: ic2/core/item/EntityIC2Boat.class
+SHA1-Digest: j7hUxE7stqgUjV5YObs+3iF1UGA=
+
+Name: ic2/core/block/crop/CropCocoa.class
+SHA1-Digest: hzdWLgvSQfXqBaLFuZF/2DeKXNc=
+
+Name: ic2/core/IC2DamageSource.class
+SHA1-Digest: xoRmVgiW/CB5PvqR8A8j/Aw6mno=
+
+Name: ic2/core/network/DataEncoder.class
+SHA1-Digest: vY+uSEGGDUjeYSx8wSD8mkmg/Jw=
+
+Name: ic2/core/item/EntityBoatCarbon.class
+SHA1-Digest: KeJuVUknMK/lcgbqc1NTRSmKbGc=
+
+Name: ic2/core/block/machine/RenderBlockMiningPipe.class
+SHA1-Digest: iwXIIL/tES1GmjxpjAOGET2P3jY=
+
+Name: ic2/core/item/ItemGradual.class
+SHA1-Digest: 3PR4gAB3x/q119Q1PtNc6i7Eoyc=
+
+Name: ic2/core/block/BlockScaffold.class
+SHA1-Digest: 7a44ag8qQlJz4p+1CHLmOJJnAwk=
+
+Name: ic2/core/item/reactor/ItemReactorUranium$ItemStackCoord.class
+SHA1-Digest: YfUr5RNgbH6fmdSIMg2zfq1CvEo=
+
+Name: ic2/core/item/tfbp/ItemTFBPChilling.class
+SHA1-Digest: t0vdgEhE8YUSXYaIKUCCSaUs1Bk=
+
+Name: ic2/core/item/tfbp/ItemTFBP.class
+SHA1-Digest: tcdO9lCndBMD1Bch4EXtGnEgmC4=
+
+Name: ic2/bcIntegration/core/TriggerScrap.class
+SHA1-Digest: p5VHQbhZJCABDJIreCCsXxRb/5E=
+
+Name: ic2/core/item/tool/ItemIC2Pickaxe.class
+SHA1-Digest: G4jJmacPKwy0SC0nzZ1eoScRS+s=
+
+Name: ic2/core/ITickCallback.class
+SHA1-Digest: y6ufsCxRUlGLHzzccC9iu9yDess=
+
+Name: ic2/core/item/tool/HandHeldCropnalyzer.class
+SHA1-Digest: /+2yBIlbx389yQfWdc10TE7iE2M=
+
+Name: ic2/core/block/wiring/TileEntityLuminatorOLD.class
+SHA1-Digest: Ll2ybHOLoEuDBY8mmwSMlitMbWU=
+
+Name: ic2/core/item/block/ItemMachine2.class
+SHA1-Digest: PNHtGHXdW1j0z8k8mfDp7UETWJw=
+
+Name: ic2/core/block/wiring/TileEntityElectricBatBox.class
+SHA1-Digest: OKUl1Up7n5UtriQpW4234eljz+k=
+
+Name: ic2/core/block/crop/CropNetherWart.class
+SHA1-Digest: 0LWF/68B0KgoP0MgO3p+ulDZoCg=
+
+Name: ic2/core/ExplosionIC2$DropData.class
+SHA1-Digest: omnbLwej1kY777N7DKedDu4NltA=
+
+Name: ic2/core/item/ItemFertilizer.class
+SHA1-Digest: wf0W1IN417zl0cqePNHHPCoIv7c=
+
+Name: ic2/core/block/machine/tileentity/TileEntityMacerator.class
+SHA1-Digest: Tqn0P0FpszudlVuHehXiwLmCJv4=
+
+Name: ic2/core/AdvCraftingRecipeManager.class
+SHA1-Digest: poqA4234BF0AFQT7XUIcLWhrm9c=
+
+Name: ic2/neiIntegration/core/NEIIC2Config.class
+SHA1-Digest: i8CZEk3sUJr9me6Gs0Hc6aRrcNw=
+
+Name: ic2/core/block/wiring/BlockLuminator.class
+SHA1-Digest: OFcMMONlRcXJky/OdoCcjMgcU+g=
+
+Name: ic2/core/block/invslot/InvSlotConsumableLiquidContainer.class
+SHA1-Digest: 7OnfjUBdUTF+GpEG7P8XAV8dIqw=
+
+Name: ic2/core/block/EntityIC2Explosive.class
+SHA1-Digest: 2iYBl5rVeozu8lFqa6QgDx5UelU=
+
+Name: ic2/core/Ic2Player.class
+SHA1-Digest: oUaN+66aX4Iis7BRhjR3Ye1kDIM=
+
+Name: ic2/core/block/machine/tileentity/TileEntityMiner.class
+SHA1-Digest: t6NkJGd22lNOxMmfBjbSbnXbY3Q=
+
+Name: ic2/core/block/wiring/RenderBlockLuminator.class
+SHA1-Digest: G0eTf0k/ei1yC1oM1AP+uAc0H54=
+
+Name: ic2/neiIntegration/core/MachineRecipeHandler.class
+SHA1-Digest: qtAAO4L1XSncp1zBkkBPSbSGbmU=
+
+Name: ic2/core/block/machine/gui/GuiElectrolyzer.class
+SHA1-Digest: TWkpR9iK5WPVvDPyNK1rA3WjUNs=
+
+Name: ic2/core/PlatformClient.class
+SHA1-Digest: uuncbUnDKldUjKIvJw5+ZoE9db4=
+
+Name: ic2/core/block/invslot/InvSlotConsumable.class
+SHA1-Digest: lNKCSJwBZ1AOXOBdv6zC24So4pU=
+
+Name: ic2/core/block/IRareBlock.class
+SHA1-Digest: IIoEXaN7oW92Ch71Qq0IGKsnD2M=
+
+Name: ic2/core/IC2$1.class
+SHA1-Digest: Chrdid9NktcLle3Ghk/dpopVZoo=
+
+Name: ic2/core/item/ItemCell.class
+SHA1-Digest: /FAMGG9TBr5k09P8R8qQg9r7vM0=
+
+Name: ic2/core/item/block/ItemBlockIC2.class
+SHA1-Digest: eP9OO5jVmHhrs2CY4dxCK17HB5Y=
+
+Name: ic2/core/block/machine/tileentity/TileEntityRecycler.class
+SHA1-Digest: SIF2PdFiGmFVpO2SVHwgZAo9bbc=
+
+Name: ic2/bcIntegration/core/TriggerCapacitor.class
+SHA1-Digest: 6q/PTsFk8C/wR6NCDEFjDDSxDkU=
+
+Name: ic2/core/block/generator/tileentity/TileEntityGeoGenerator.class
+SHA1-Digest: wUNwgw7mF+wTkmGEATW/Su+D5gU=
+
+Name: ic2/core/block/machine/tileentity/TileEntityElectricMachine.clas
+ s
+SHA1-Digest: 02BMnUa0BJIPiAjj5WKKjiM9HEM=
+
+Name: ic2/core/EnergyNet$PostPonedAddCallback.class
+SHA1-Digest: AJCl6zkG1qNNEIBg83WrVGLUSSw=
+
+Name: ic2/core/item/tool/ItemSprayer.class
+SHA1-Digest: XN0bsqYQGeSj5lCOuUEs8yXn7x4=
+
+Name: ic2/core/EnergyNet.class
+SHA1-Digest: 42PzhxumYXFD5T8Y2kFXH6q54aY=
+
+Name: ic2/core/block/BlockResin.class
+SHA1-Digest: +/iMUr4xpZMkiNNZupRL5AuoWsI=
+
+Name: ic2/core/block/generator/container/ContainerBaseGenerator.class
+SHA1-Digest: 0M2hYhj73hgikVXxZ6Q3Z8mRVdg=
+
+Name: ic2/neiIntegration/core/MaceratorRecipeHandler.class
+SHA1-Digest: zGqeKIKx3Dd4aRfDuyrtjiHxr/w=
+
+Name: ic2/core/block/machine/gui/GuiExtractor.class
+SHA1-Digest: o3PsLOG7R4cuXk5d+6Y32kSDlnM=
+
+Name: ic2/core/item/ItemScrapbox$Drop.class
+SHA1-Digest: JWOEzzbQQIpuvfa9z+n65IyuFG0=
+
+Name: ic2/core/item/ItemScrapbox$ScrapboxRecipeManager.class
+SHA1-Digest: 799eGXW4RmB6D1cG9Mp/umgy2rY=
+
+Name: ic2/core/block/generator/gui/GuiWaterGenerator.class
+SHA1-Digest: IBylySIWNL2fvxQRZIelsVFCKw4=
+
+Name: ic2/core/BasicMachineRecipeManager.class
+SHA1-Digest: s6+rpJxzTR2UzEpNymk2h48mGRk=
+
+Name: ic2/core/block/machine/tileentity/TileEntityExtractor.class
+SHA1-Digest: hMAnC+t/gnE6swmcPoYliAaNVcE=
+
+Name: ic2/core/item/ItemIC2.class
+SHA1-Digest: V9FhavGr8yYCYKxjBrQI10TutNI=
+
+Name: ic2/core/util/AabbUtil.class
+SHA1-Digest: +5mSWVAtsRnTja/h8CjQXZoL2CA=
+
+Name: ic2/core/network/NetworkManagerClient.class
+SHA1-Digest: q5qbqdkzwP7HGupWqlGdd3f3jAo=
+
+Name: ic2/core/block/machine/ContainerInduction.class
+SHA1-Digest: BWMj/yyVY8/yR6Txa5n4K+gV3kA=
+
+Name: ic2/core/block/machine/tileentity/TileEntityElectrolyzer.class
+SHA1-Digest: mytgCvt2rcEh7m4BVsk5enw7N34=
+
+Name: ic2/core/block/BlockContainerCommon.class
+SHA1-Digest: p+BrDl/VESv/U8TL7LU/lAplAEo=
+
+Name: ic2/core/block/personal/ContainerEnergyOMatClosed.class
+SHA1-Digest: qVVHgfsPi6OPVKH3VWB1HMb+hwI=
+
+Name: ic2/core/item/block/ItemDynamite.class
+SHA1-Digest: dFtHzvHS07PNCi0+FlCWpln2hB4=
+
+Name: ic2/core/audio/AudioManagerClient$WeakObject.class
+SHA1-Digest: f4fIV4y9uSFKNlkKOXvd6RcMDhk=
+
+Name: ic2/core/util/AabbUtil$Edge.class
+SHA1-Digest: YSF22jdsW+Aj/3N5zXTEqH7qYr8=
+
+Name: ic2/core/item/tool/ItemScanner.class
+SHA1-Digest: Da8a70MeD5TY9Tr0MJ2Tkc379K4=
+
+Name: ic2/core/block/machine/ContainerIronFurnace.class
+SHA1-Digest: XGWhQLRCY+gOmi8oQwUf+59J35c=
+
+Name: ic2/core/item/ItemBatterySU.class
+SHA1-Digest: WzHOouECH2DvPu0dduD8Rb1Jhh4=
+
+Name: ic2/core/block/personal/RenderBlockPersonal.class
+SHA1-Digest: ghzr9bmJ+RLa6rib7uwq4oMnma0=
+
+Name: ic2/core/PointExplosion.class
+SHA1-Digest: tmOP/oC0gYqIETkgnNMaxIznqKg=
+
+Name: ic2/core/block/invslot/InvSlotUpgrade.class
+SHA1-Digest: X/6g7L+0iXyPMHN9iyRnArRsmg4=
+
+Name: ic2/core/block/generator/tileentity/TileEntityReactorChamber$1.c
+ lass
+SHA1-Digest: 98I3aoAzCLf0dDGdrFlEvYmbvHI=
+
+Name: ic2/core/block/wiring/TileEntityElectricMFSU.class
+SHA1-Digest: pCZRr4SRjo+PFQa68UpQyzJvIEk=
+
+Name: ic2/core/block/crop/CropMelon.class
+SHA1-Digest: 5r7tfUUplf0H0n3SMh25e2tnMSw=
+
+Name: ic2/core/item/InfiniteElectricItemManager.class
+SHA1-Digest: U1HjaNl3smk/HsxsmpRURxvpb3s=
+
+Name: ic2/core/CreativeTabIC2.class
+SHA1-Digest: wlHDJzs2xrzYlgFtiK18Ihsgp5I=
+
+Name: ic2/neiIntegration/core/AdvRecipeHandler.class
+SHA1-Digest: HnMB3GttOJZFFJlTNMSQZXo4nlg=
+
+Name: ic2/core/block/machine/BlockMachine.class
+SHA1-Digest: QOpogVMgNhrOpUr9MNnFVM5rXF4=
+
+Name: ic2/core/block/generator/tileentity/TileEntityReactorChamberElec
+ tric.class
+SHA1-Digest: rTIDMP9kjLYEB4Bqu9/d4bT+rZo=
+
+Name: ic2/core/item/reactor/ItemReactorDepletedUranium.class
+SHA1-Digest: FIGFGq7xiD/mavZmYC5zBsLQqc8=
+
+Name: ic2/core/util/Liquid.class
+SHA1-Digest: BJx5G4Eu+FW29B+gcFAvTohB6mY=
+
+Name: ic2/core/block/RenderExplosiveBlock.class
+SHA1-Digest: 4hhytYYkbQqd5W4IeajVgabHMt4=
+
+Name: ic2/core/init/DefaultIds.class
+SHA1-Digest: ImVx88FB57yn0U2tfVr4fiYugcI=
+
+Name: ic2/core/GuiIC2ErrorScreen.class
+SHA1-Digest: sxVbrNJEp31I2gg/4PNJY/zif18=
+
+Name: ic2/core/block/wiring/TileEntityCable.class
+SHA1-Digest: umHDY2BcT0EeRHf4CklAeT7iBYE=
+
+Name: ic2/core/block/generator/tileentity/TileEntitySolarGenerator.cla
+ ss
+SHA1-Digest: /3/iElCXIESiKTKzPWspr1KjruE=
+
+Name: ic2/core/block/wiring/TileEntityLuminator.class
+SHA1-Digest: mPf70n/rhw71avE0zUs03gtWE9E=
+
+Name: ic2/core/item/tool/ContainerCropnalyzer.class
+SHA1-Digest: m/UmaiBIyVxdLBxkWMs5m4njnv4=
+
+Name: ic2/core/EnergyNet$EventHandler.class
+SHA1-Digest: n0wQYN5qVjXyIoJLMgsHt3KouS0=
+
+Name: ic2/core/block/invslot/InvSlotDischarge.class
+SHA1-Digest: 7IrSxc3EiI4hhvVnwB0zI5PlZ+c=
+
+Name: ic2/neiIntegration/core/AdvShapelessRecipeHandler.class
+SHA1-Digest: Wyry33omTUwJH59DMiMyIPj8Dmg=
+
+Name: ic2/core/item/tool/ItemIC2Hoe.class
+SHA1-Digest: EtxuXh3pvC+Ju2oGVM0VGn5h8mU=
+
+Name: ic2/core/block/crop/IC2Crops.class
+SHA1-Digest: Da50HPXbphpb+GNxm47MkbY5szc=
+
+Name: ic2/core/block/machine/tileentity/TileEntityTesla.class
+SHA1-Digest: y4x1AU++ovhks1aP11SzdDZJyNc=
+
+Name: ic2/core/util/Util.class
+SHA1-Digest: iuU9G4IOthutjcQTntX3sNh+cfk=
+
+Name: ic2/core/util/StackUtil$1.class
+SHA1-Digest: qJesuuj5nAYQXQ7U7dIeGev+aHs=
+
+Name: ic2/core/block/machine/tileentity/TileEntityTeleporter.class
+SHA1-Digest: N1BNrYGIy0rxkiuOjBPDxgxCIbE=
+
+Name: ic2/core/item/tool/ItemIC2Spade.class
+SHA1-Digest: aMBhQwAO6bjICytxieew1klE24c=
+
+Name: ic2/core/block/TileEntityBlock.class
+SHA1-Digest: oMBncp/cGZrvRlQTo2qqrYDeyD4=
+
+Name: ic2/core/block/generator/gui/GuiNuclearReactor.class
+SHA1-Digest: lckRLwJipfti4g9hXZ/0BYNPDRg=
+
+Name: ic2/core/item/BehaviorScrapboxDispense.class
+SHA1-Digest: cZ0E7tlRsIz1ZQ6RYF+dwU7/KUk=
+
+Name: ic2/core/block/machine/tileentity/TileEntityMagnetizer.class
+SHA1-Digest: 6LHu223vDyzifcPeTdM7UwVwX0I=
+
+Name: ic2/core/item/armor/ItemArmorQuantumSuit.class
+SHA1-Digest: 3KBmj88mbY+EpfooCIPRv006DiA=
+
+Name: ic2/core/block/invslot/InvSlotProcessableSmelting.class
+SHA1-Digest: jI1y8drL+DTwbvtdb25uyphbQ5c=
+
+Name: ic2/core/slot/SlotDischarge.class
+SHA1-Digest: iLepGw5yclnILvlqhIjEoJkAOSQ=
+
+Name: ic2/core/block/machine/gui/GuiCanner.class
+SHA1-Digest: 9xUKhc55HPqKnyMBNobKvUsMjeg=
+
+Name: ic2/core/block/machine/tileentity/TileEntityCropmatron.class
+SHA1-Digest: U5SxW3cHZxV2QP62skJ9izX+jNM=
+
+Name: ic2/core/block/machine/ContainerCanner.class
+SHA1-Digest: rDcSDd19MgbhzcNw+PI5NjUJSog=
+
+Name: ic2/core/IC2Achievements.class
+SHA1-Digest: 91qgo31RgtoTzw9TyjkpToIM2qY=
+
+Name: ic2/core/EnergyNet$EnergyTarget.class
+SHA1-Digest: oFoEZJCJfl9k8KIMZBaWtFCvAvQ=
+
+Name: ic2/core/block/generator/tileentity/TileEntityWindGenerator.clas
+ s
+SHA1-Digest: 4f4X5QggefYszZsJBALbB0fnQGM=
+
+Name: ic2/core/block/wiring/TileEntityLuminator$1.class
+SHA1-Digest: jatn2916e+d3RWLEccR6ns4LK4o=
+
+Name: ic2/core/block/BlockBarrel.class
+SHA1-Digest: v/cJlzjQ8RF7RSInF7QJqlqSSx8=
+
+Name: ic2/core/block/wiring/ContainerElectricBlock.class
+SHA1-Digest: XRRgzw6RHzVvqgtuxU4Wd4CNC2w=
+
+Name: ic2/core/network/NetworkManager$TileEntityField.class
+SHA1-Digest: x2N0PJBCQRtwUH9sbXpZCdZsIDo=
+
+Name: ic2/core/item/ItemMigrate.class
+SHA1-Digest: HQANrHBLgzXVw8QUbl6qMImbCMY=
+
+Name: ic2/core/block/generator/block/BlockGenerator.class
+SHA1-Digest: RZhPAXyxcJzBKaYgsycwwhr4pQY=
+
+Name: ic2/core/item/IHandHeldInventory.class
+SHA1-Digest: D2jTgaLjTLMhriQsuI3I8t2V/Ac=
+
+Name: ic2/core/block/BlockDynamite.class
+SHA1-Digest: ZzydSLmRjEAJ7tH5iBiGPr29ems=
+
+Name: ic2/core/block/machine/ContainerElectrolyzer.class
+SHA1-Digest: lBIvbw8wrl8kkZ4bkg6rbXRVynQ=
+
+Name: ic2/core/item/block/ItemElectricBlock.class
+SHA1-Digest: sMs+ksGwL6nRLvohtXbZLYBUtK8=
+
+Name: ic2/core/item/tool/ItemFrequencyTransmitter.class
+SHA1-Digest: orKXUgux4pb4WfL3CGSYHGQZaUY=
+
+Name: ic2/core/block/BlockFoam.class
+SHA1-Digest: 3aEMZ+Rft86Bp/5rJpMlGgKVP/U=
+
+Name: ic2/core/block/BlockRubWood.class
+SHA1-Digest: E8JwDMBc1XyY+DxRvYrqdvihvkc=
+
+Name: ic2/core/block/EntityItnt.class
+SHA1-Digest: CD27bfuh1UofjNwtuv6F+IMGBTs=
+
+Name: ic2/core/block/BlockSimple.class
+SHA1-Digest: gXpPXIqhEMaeA+oRnkjlGArZh8U=
+
+Name: ic2/bcIntegration/core/TileEntityNuclearReactorSteam.class
+SHA1-Digest: 1lxgooPN17sfWmHD9PmmK6Vk7xQ=
+
+Name: ic2/core/block/machine/tileentity/TileEntityTerra.class
+SHA1-Digest: sKSqAcLY6z4/uOf4szLeobVmBfE=
+
+Name: ic2/core/block/generator/tileentity/TileEntityNuclearReactor.cla
+ ss
+SHA1-Digest: 2+girvGpC99xJVxQeca+fBNaJzk=
+
+Name: ic2/core/block/BlockWall.class
+SHA1-Digest: HrXHqe3RipBDPvbQnD4hTo4TNDc=
+
+Name: ic2/core/item/tool/EntityMiningLaser.class
+SHA1-Digest: WelgH//OlvGvm1SxOX8IG+Q2FRg=
+
+Name: ic2/core/audio/AudioPosition.class
+SHA1-Digest: qkt6yE2DEUVVvz1FORmG34nfjPU=
+
+Name: ic2/core/item/tool/ItemRemote.class
+SHA1-Digest: gjlux1Ihfs42yxtzFbHS98Cuiz8=
+
+Name: ic2/core/block/machine/ContainerPump.class
+SHA1-Digest: QhpnUHxCQWYdkGtLiOFUs1ZdNwU=
+
+Name: ic2/core/block/machine/tileentity/TileEntityMiner$MineResult.cla
+ ss
+SHA1-Digest: qHiAPzcmClrQnI6tmQg9xjx84wI=
+
+Name: ic2/core/item/block/ItemPersonalBlock.class
+SHA1-Digest: bht8aM6rItDEXtE/EObt8KZputA=
+
+Name: ic2/core/item/ItemBatteryDischarged.class
+SHA1-Digest: eId5idcRhGDbLS5dEKPDPtEPjr8=
+
+Name: ic2/core/block/generator/tileentity/TileEntityWaterGenerator.cla
+ ss
+SHA1-Digest: /6/CLob/GbxvyGZWd4PlEbvwAh0=
+
+Name: ic2/core/item/reactor/ItemReactorHeatSwitch.class
+SHA1-Digest: 2qV6bBtAEP0XULjzGMWPqkD0ySk=
+
+Name: ic2/core/audio/PositionSpec.class
+SHA1-Digest: OjMsaFNiqoAbDzbNI8/BKu9+Bfs=
+
+Name: ic2/core/block/crop/CropCoffee.class
+SHA1-Digest: x6MYpAbU0/i3L13TwVoeBv8UUfo=
+
+Name: ic2/core/item/reactor/ItemReactorHeatSwitch$ItemStackCoord.class
+SHA1-Digest: ZeIctoo/aruxdxbIHrhajEeko4c=
+
+Name: ic2/core/item/tool/ItemTreetapElectric.class
+SHA1-Digest: EPTA4i7t6+J/fXdFYV/EA437oB4=
+
+Name: ic2/core/block/generator/container/ContainerSolarGenerator.class
+SHA1-Digest: w/YZDMKAokhFJ8ug6/NEw5lI0xs=
+
+Name: ic2/core/ExplosionIC2$1.class
+SHA1-Digest: 27zvEnzQpApuAUueKbsmJ62RNZw=
+
+Name: ic2/core/block/TileEntityBarrel.class
+SHA1-Digest: uGLEzXu0JLPzva+P4of1F4dCOJQ=
+
+Name: ic2/core/item/armor/ItemArmorLappack.class
+SHA1-Digest: YjCmF5SlKUmOiSLHdEIaBdyBlBE=
+
+Name: ic2/core/block/machine/BlockMiningPipe.class
+SHA1-Digest: kJvRCzbZpb7PjLw7VFTg29sKQSo=
+
+Name: ic2/core/item/ItemToolbox.class
+SHA1-Digest: aJhG070fjdQziev0qcfg3hzDekY=
+
+Name: ic2/core/network/IPlayerItemDataListener.class
+SHA1-Digest: 9mZt/TNK7Zt61iA7jPqrH8f+tAA=
+
+Name: ic2/core/item/reactor/ItemReactorUranium.class
+SHA1-Digest: 2yCd48OLdBF6wX9LGwyQ0ETDemg=
+
+Name: ic2/core/block/crop/CropFerru.class
+SHA1-Digest: bDTXjX3RYC/Lxg1Jmtc1yj2C7gg=
+
+Name: ic2/core/item/armor/ItemArmorNanoSuit.class
+SHA1-Digest: 5LcziBcSh8v+xJv4xZ/XC0mIhEs=
+
+Name: ic2/core/item/tool/ItemElectricToolHoe.class
+SHA1-Digest: teWAI1lswt373+YjRK8kvaer6Ts=
+
+Name: ic2/core/item/tool/ItemElectricToolDDrill.class
+SHA1-Digest: 3t6YCflU5kVhX1gNn8zid4Y3qE0=
+
+Name: ic2/core/block/BlockIC2Door.class
+SHA1-Digest: kArEbn65VPPURZct5L006DB1iiE=
+
+Name: ic2/core/IHitSoundOverride.class
+SHA1-Digest: tCQ5vI+8XK2LuGBP7FebhvMn0yA=
+
+Name: ic2/core/block/BlockRubLeaves.class
+SHA1-Digest: 8aZRWzt/mHXx9i+yn+PQkszYZ+4=
+
+Name: ic2/core/item/tool/ItemObscurator.class
+SHA1-Digest: vASxvzZuj1oM8scNT4pFO1Pt9xQ=
+
+Name: ic2/core/InvSlotConsumableBlock.class
+SHA1-Digest: l0ZEZeP8Qo+LFxEWDGiSOThttIQ=
+
+Name: ic2/core/block/TileEntityCrop.class
+SHA1-Digest: P5ofgpp3i4eZ4H2q5tAirP/bZWw=
+
+Name: ic2/core/item/EntityBoatRubber.class
+SHA1-Digest: QVmgMALcadKOuyk6sWDgj6NniJw=
+
+Name: ic2/core/block/wiring/BlockCable.class
+SHA1-Digest: exWDE/vhyQ9qDKxbIU2SbOKhVbQ=
+
+Name: ic2/core/block/generator/gui/GuiSolarGenerator.class
+SHA1-Digest: vC+HChgkcCyrHk1FxgCp2WUn9PQ=
+
+Name: ic2/core/ContainerFullInv.class
+SHA1-Digest: deO/hWXPiQznQYgFvu+4GYDj15E=
+
+Name: ic2/core/item/tool/ItemNanoSaber.class
+SHA1-Digest: wWEvTqsuaJq95ct6iS5//b1Y41U=
+
+Name: ic2/core/block/machine/tileentity/TileEntityIronFurnace.class
+SHA1-Digest: BgPcVAaeD8KDNhU9rF+DfZ7M+oY=
+
+Name: ic2/core/block/generator/container/ContainerNuclearReactor.class
+SHA1-Digest: CNblwvWuni5wWy/iM1RsTNo9q1U=
+
+Name: ic2/core/audio/AudioSource.class
+SHA1-Digest: 9CD5r2MsVhzs6iKb4X4G6U6j0qU=
+
+Name: ic2/core/item/GatewayElectricItemManager.class
+SHA1-Digest: mJiijw2yUqWJYXNWG7CNoJXxcJ0=
+
+Name: ic2/core/block/TileEntityBlock$1.class
+SHA1-Digest: AKGciaWKjTpmH1hfzlEQ6/uRkYE=
+
+Name: ic2/core/block/personal/TileEntityTradeOMat.class
+SHA1-Digest: rxt10nwxYTnx3bUlW0Na7GDZj1s=
+

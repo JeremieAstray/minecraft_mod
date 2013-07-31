@@ -1,0 +1,10 @@
+IC2 was built using the following software versions:
+
+Java javac 1.6.0_27
+Minecraft 1.6.2
+MCP 8.04
+FML 6.2.19.789
+Forge 9.10.0.789
+
+Build version 1.118.401-lf
+Build date Fri Jul 12 23:13:36 CEST 2013
